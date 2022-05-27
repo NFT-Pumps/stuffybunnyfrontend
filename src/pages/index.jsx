@@ -24,7 +24,7 @@ class MainPage extends React.Component{
                                         </p>
                                     </Col>
                                     <div class="d-grid gap-3 d-md-block">
-                                        <Button href="https://mint.stuffybunnynft.com/claims" variant="primary" className="btn-lg">MINT</Button>
+                                        <Button href="https://mint.stuffybunnynft.com" variant="primary" className="btn-lg">MINT</Button>
                                         <Button href="#section4" variant="secondary" className="ml-md-4 btn-lg">HOW TO BUY</Button>
                                     </div>
                                     <Row>

@@ -35,11 +35,11 @@ class MainPage extends React.Component{
                                                     <p className="nf desc">Total Supply</p>
                                                 </Col>
                                                 <Col xs={4} sm={4} md={3} lg={3} xl={3} className=" text-center ">
-                                                <h3 className="df nums stat-shadow">350</h3>
+                                                <h3 className="df nums stat-shadow">100</h3>
                                                     <p className="nf desc">1/1 Customs</p>
                                                 </Col>
                                                 <Col xs={4} sm={4} md={3} lg={3} xl={3} className="text-center">
-                                                <h3 className="df nums stat-shadow">.09<sup className="symbol">ETH</sup></h3>
+                                                <h3 className="df nums stat-shadow">.01<sup className="symbol">ETH</sup></h3>
                                                 <p className="nf desc">Mint Price</p>
                                                 </Col>
                                             </Row>
@@ -152,12 +152,12 @@ class MainPage extends React.Component{
                                             <ul>
                                                 <li>May 25
                                                     <ul>
-                                                        <li>Pre-Sale @.07eth Whitelist</li>
+                                                        <li>Pre-Sale</li>
                                                     </ul>
                                                 </li>
                                                 <li>May 26
                                                     <ul>
-                                                        <li>Public Sale @.09eth</li>
+                                                        <li>Public Sale</li>
                                                     </ul>
                                                 </li>
                                                 <li>June 1

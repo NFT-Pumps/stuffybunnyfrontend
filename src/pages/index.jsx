@@ -163,7 +163,7 @@ class MainPage extends React.Component{
                                                 <li>June 1
                                                     <ul>
                                                         <li>Manufacturing of first 2 StuffyBunnys to begin (500 of girl version & 500 of boy version)</li>
-                                                        <li>First order of Custom StuffyBunny Cold storage wallets to go out (100 wallets)</li>
+                                                        <li>First order of Custom StuffyBunny Cold storage wallets to go out (1000 wallets)</li>
                                                    
                                                         <li>Children's Book manufacturing to begin</li>
                                                         <li>3D StuffyBunnys art to begin and become metaverse ready</li>

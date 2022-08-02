@@ -31,7 +31,7 @@ class MainPage extends React.Component{
                                         <Col xs={12} sm={12} md={9} lg={9} xl={9} className="pt-5">
                                             <Row className="stats">
                                                 <Col xs={4} sm={4} md={3} lg={3} xl={3} className="text-center pl-md-0">
-                                                    <h3 className="df nums stat-shadow">5000</h3>
+                                                    <h3 className="df nums stat-shadow">3000</h3>
                                                     <p className="nf desc">Total Supply</p>
                                                 </Col>
                                                 <Col xs={4} sm={4} md={3} lg={3} xl={3} className=" text-center ">

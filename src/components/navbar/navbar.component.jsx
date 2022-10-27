@@ -14,7 +14,7 @@ export default function NavBar(){
                         />
                     <img
                         alt=""
-                        src="/assets/img/NavLogo.png"
+                        src="/assets/img/NavLogo-01.png"
                         className="d-none d-xs-none d-sm-none d-md-inline-block  align-top nav-logo"
                         />
                     </Navbar.Brand>
@@ -27,8 +27,6 @@ export default function NavBar(){
                         <HashLink className="navlinks" to="/#ourstory">OUR STORY</HashLink>
                         <HashLink className="navlinks" to="/#family">FAMILY MEMBERS</HashLink>
                         <HashLink className="navlinks" to="/#roadmap">ROADMAP</HashLink>
-                        <HashLink className="navlinks" to="/#howtobuy">HOW TO BUY</HashLink>
-                        <MdOutlineAccountBalanceWallet className="walleticon"/>
                     </Nav>
                 </Navbar.Collapse>
 

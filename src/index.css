@@ -26,6 +26,9 @@ h1 {
 .vertical-timeline::before {
         background-color: #8101a7 !important;
 }
+.white-bkg {
+    background: #FFF;
+}
 .pfix{
   padding-left: 0px !important;
   padding-right: 0px !important;
